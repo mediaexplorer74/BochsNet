@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\CPU.dll
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\CPU.pdb
+C:\Users\Admin\source\repos\BochsNet\src\CPU\obj\Debug\CPU.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\src\CPU\obj\Debug\CPU.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\src\CPU\obj\Debug\CPU.csproj.CopyComplete
+C:\Users\Admin\source\repos\BochsNet\src\CPU\obj\Debug\CPU.dll
+C:\Users\Admin\source\repos\BochsNet\src\CPU\obj\Debug\CPU.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\VGA.dll
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\VGA.pdb
+C:\Users\Admin\source\repos\BochsNet\src\VGA\obj\Debug\VGA.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\src\VGA\obj\Debug\VGA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\src\VGA\obj\Debug\VGA.csproj.CopyComplete
+C:\Users\Admin\source\repos\BochsNet\src\VGA\obj\Debug\VGA.dll
+C:\Users\Admin\source\repos\BochsNet\src\VGA\obj\Debug\VGA.pdb

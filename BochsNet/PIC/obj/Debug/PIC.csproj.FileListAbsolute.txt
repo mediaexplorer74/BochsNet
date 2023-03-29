@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\PIC.dll
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\PIC.pdb
+C:\Users\Admin\source\repos\BochsNet\src\PIC\obj\Debug\PIC.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\src\PIC\obj\Debug\PIC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\src\PIC\obj\Debug\PIC.csproj.CopyComplete
+C:\Users\Admin\source\repos\BochsNet\src\PIC\obj\Debug\PIC.dll
+C:\Users\Admin\source\repos\BochsNet\src\PIC\obj\Debug\PIC.pdb

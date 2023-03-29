@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\CoreTesting.dll
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\CoreTesting.pdb
+C:\Users\Admin\source\repos\BochsNet\src\CoreTesting\obj\Debug\CoreTesting.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\src\CoreTesting\obj\Debug\CoreTesting.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\src\CoreTesting\obj\Debug\CoreTesting.csproj.CopyComplete
+C:\Users\Admin\source\repos\BochsNet\src\CoreTesting\obj\Debug\CoreTesting.dll
+C:\Users\Admin\source\repos\BochsNet\src\CoreTesting\obj\Debug\CoreTesting.pdb

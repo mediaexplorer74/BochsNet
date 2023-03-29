@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\Definitions.dll
+C:\Users\Admin\source\repos\BochsNet\src\bin\Debug\Definitions.pdb
+C:\Users\Admin\source\repos\BochsNet\src\Definitions\obj\x86\Debug\Helper.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\src\Definitions\obj\x86\Debug\Definitions.Properties.Resources.resources
+C:\Users\Admin\source\repos\BochsNet\src\Definitions\obj\x86\Debug\Helper.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BochsNet\src\Definitions\obj\x86\Debug\Helper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\src\Definitions\obj\x86\Debug\Definitions.dll
+C:\Users\Admin\source\repos\BochsNet\src\Definitions\obj\x86\Debug\Definitions.pdb
