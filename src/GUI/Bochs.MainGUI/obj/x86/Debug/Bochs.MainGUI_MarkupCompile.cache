@@ -1,0 +1,20 @@
+﻿Bochs.MainGUI
+
+
+winexe
+C#
+.cs
+C:\Users\Admin\source\repos\mediaexplorer74\BochsNet\src\GUI\Bochs.MainGUI\obj\x86\Debug\
+Bochs.MainGUI
+none
+false
+DEBUG;TRACE
+C:\Users\Admin\source\repos\mediaexplorer74\BochsNet\src\GUI\Bochs.MainGUI\App.xaml
+9-1293966021
+
+14-175660810
+211398361831
+CPU Controls\CPUGeneralRegisters.xaml;CPU Controls\CPUInstructions.xaml;CPU Controls\CPUSegmentRegister.xaml;CPU Controls\CPUSegmentRegisters.xaml;CPU Controls\InstructionDialog.xaml;FlagRegister.xaml;CPU Controls\GeneralRegister.xaml;MainWindow.xaml;CPU Controls\CPUDialog.xaml;
+
+True
+

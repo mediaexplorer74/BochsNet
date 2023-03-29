@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\bin\Debug\BxImage.Tools.exe.config
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\bin\Debug\BxImage.Tools.exe
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\bin\Debug\BxImage.Tools.pdb
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\bin\Debug\Definitions.dll
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\bin\Debug\Definitions.pdb
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Net.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Net.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Tools.BxImagectrl.resources
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Tools.MainForm.resources
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Tools.Properties.Resources.resources
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Net.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Net.csproj.CopyComplete
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Tools.exe
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Tools\BxImage.Net\obj\x86\Debug\BxImage.Tools.pdb

@@ -1,0 +1,17 @@
+﻿<UserControl x:Class="Bochs.MainGUI.CPUInstructions"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="300" Width="300" Initialized="UserControl_Initialized">
+    <Grid Height="224" Width="208">
+        <ListView Name="lstInstruction" Margin="-48,-40,-44,-37">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Address"  Width="120" DisplayMemberBinding="{Binding Path=Address}" />
+                    <GridViewColumn Header="Instruction" Width="200"  DisplayMemberBinding="{Binding Path=Instruction}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</UserControl>

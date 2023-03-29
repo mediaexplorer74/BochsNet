@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CPU.Registers.Register" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAABQAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Registers\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register32" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAgAAAAAABAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Registers\Register32.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register16" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAICAAAIIAAAAAAAAAEAAIAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Registers\Register16.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register8" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAggAEAAAAA=</HashCode>
+      <FileName>Registers\Register8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register64" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAgAAAAAQgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registers\Register64.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.CPU" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>NBAxCy4JUbDfDaQADgNMpD6OPwRspCcA8ghASEDmN6A=</HashCode>
+      <FileName>CPU.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainMemory" />
+      <Property Name="InstructionExecution" />
+      <Property Name="ICache" />
+      <Property Name="PageWriteStampTable" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Memory.Memory" Collapsed="true">
+    <Position X="10" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="CPU.PageWriteStampTable">
+    <Position X="10" Y="8.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAMAARAAAAAEABAAAAAAARAAAAoAAAEAAAAAAhAAAA=</HashCode>
+      <FileName>PageWriteStampTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.ICache" Collapsed="true">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAQAAAAAAIBEQAAAAAAAARAAAAgDgAAACAoABAAAAA=</HashCode>
+      <FileName>ICache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Instructions.InstructionExecution" Collapsed="true">
+    <Position X="10" Y="7.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CBIAGwAJELQAEQIIjAAEQAAiAAiwVcQAAlqAW5BIQAg=</HashCode>
+      <FileName>Instructions\InstructionExecution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

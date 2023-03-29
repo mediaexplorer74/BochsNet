@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.CPU.CPUBase" Collapsed="true">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Core.CPU.CPUBase.CPUDebugMode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CPU\CPUBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EAAgAiAABAAABAAAAAAAgUAEAQAAAAAAAAIBAEoABAA=</HashCode>
+      <FileName>CPU\CPUBase.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="MainMemory" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.PCBoard.PCBoard" Collapsed="true">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Core.PCBoard.PCBoard.Enum_MachineStatus" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PCBoard.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BBIwAAIAQCgAgwIAKgEAwACKAEAgACAAIwAAAAAIAAA=</HashCode>
+      <FileName>PCBoard.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Memory" />
+      <Property Name="CPU" />
+      <Property Name="IOManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.Memory.MemoryBase" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAcCEAEgAAgAEQAAgAACgQAAIAAACEAgAAIAAAAgECA=</HashCode>
+      <FileName>Memory\MemoryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.IO.IOManager" Collapsed="true">
+    <Position X="6.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBAAAAAAAAAAAAAAEAgCAAAAAABAAA=</HashCode>
+      <FileName>IO\IOManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.IO.DeviceBase" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAABQAAAQAAAACAACAAAQQAAAgAAAAAAAA=</HashCode>
+      <FileName>IO\DeviceBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Component" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

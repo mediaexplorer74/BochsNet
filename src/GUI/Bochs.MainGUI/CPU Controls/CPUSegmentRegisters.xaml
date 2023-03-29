@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="Bochs.MainGUI.CPU_Controls.CPUSegmentRegisters"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="256" d:DesignWidth="416" xmlns:my="clr-namespace:Bochs.MainGUI">
+    <Grid Width="412" Height="250">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="91*" />
+            <ColumnDefinition Width="321*" />
+        </Grid.ColumnDefinitions>
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="6,8,0,0" x:Name="cPUSegmentRegister1" VerticalAlignment="Top" RegistryName="ES" Grid.ColumnSpan="2" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="108,8,0,0" x:Name="cPUSegmentRegister2" RegistryName="CS" VerticalAlignment="Top" Grid.Column="1" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="6,64,0,0" x:Name="cPUSegmentRegister3" RegistryName="SS" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="108,64,0,0" x:Name="cPUSegmentRegister4" RegistryName="DS" VerticalAlignment="Top" Grid.Column="1" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="6,120,0,0" x:Name="cPUSegmentRegister5" RegistryName="FS" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="108,120,0,0" x:Name="cPUSegmentRegister6" RegistryName="GS" VerticalAlignment="Top" Grid.Column="1" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="6,176,0,0" x:Name="cPUSegmentRegister7" RegistryName="CS" VerticalAlignment="Top" Grid.ColumnSpan="2" />
+        <my:CPUSegmentRegister HorizontalAlignment="Left" Margin="108,176,0,0" x:Name="cPUSegmentRegister8" RegistryName="CS" VerticalAlignment="Top" Grid.Column="1" />
+    </Grid>
+</UserControl>

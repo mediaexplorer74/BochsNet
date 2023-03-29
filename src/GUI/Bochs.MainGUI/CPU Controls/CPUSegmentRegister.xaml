@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Bochs.MainGUI.CPUSegmentRegister"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="55" d:DesignWidth="190">
+    <Grid Height="50" Width="187" Background="#FFF0F0F0">
+        <Label Content="dh" FontSize="10" Height="21" Name="lblNameDH" VerticalAlignment="Top" HorizontalAlignment="Left" Width="31" />
+        <Label Content="0x00000000" FontSize="10" Foreground="#FF3399FF" Height="21" HorizontalAlignment="Left" Margin="28,0,0,0" Name="lblValueDH" VerticalAlignment="Top" Width="64" />
+        <Label Content="dl" FontSize="10" HorizontalAlignment="Left" Margin="111,0,0,0" Name="lblNameDL" Width="21" Height="21" VerticalAlignment="Top" />
+        <Label Content="0x00000000" FontSize="10" HorizontalAlignment="Left" Margin="123,0,0,0" Name="lblValueDL" Width="64" Foreground="#FF3399FF" Height="21" VerticalAlignment="Top" />
+        <Label Content="base" Height="21" HorizontalAlignment="Left" Name="lblNameBase" VerticalAlignment="Top" Width="43" FontSize="10" Margin="0,12,0,0" />
+        <Label Content="0x0000000000000000" FontSize="10" Height="21" HorizontalAlignment="Left" Margin="28,12,0,0" Name="lblValueBase" VerticalAlignment="Top" Width="115" Foreground="#FF3399FF" />
+        <Label Content="limit" FontSize="10" Height="21" Margin="0,27,0,0" Name="lblNameLimit" VerticalAlignment="Top" HorizontalAlignment="Left" Width="31" />
+        <Label Content="0x00000000" FontSize="10" Height="21" Margin="28,27,0,0" Name="lblValueLimit" VerticalAlignment="Top" Foreground="#FF3399FF" HorizontalAlignment="Left" Width="64" />
+        <Label Content="N/A" FontSize="10" Height="21" HorizontalAlignment="Left" Margin="111,27,0,0" Name="lblValueRW" VerticalAlignment="Top" Width="36" Foreground="#FF3399FF" />
+        <Label Content="REG" FontSize="10" Foreground="#FF3399FF" Height="21" HorizontalAlignment="Left" Margin="151,27,0,0" Name="lblRegName" VerticalAlignment="Top" Width="36" />
+    </Grid>
+</UserControl>

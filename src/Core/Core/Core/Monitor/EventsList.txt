@@ -1,0 +1,34 @@
+﻿/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////// Register Event
+//////////Core.Monitor.EventRegisterar.AddEvent("CPU.ExecuteInstruction");
+
+////////// Listeners
+//////////Core.Monitor.EventManager.CallMeOn("CPU.ExecuteInstruction", CallMe);
+
+////////// Raise Event 
+//////////Core.Monitor.EventRegisterar.RaiseEvent ("CPU.ExecuteInstruction",null,new Core.Monitor.EventArgument("Allo"));
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+CPU.OnChangeMode
+CPU.OnExecuteInstruction
+
+CPU.OnReset
+
+CPU.IO.Read
+CPU.IO.Write
+
+Memory.Write
+Memory.Read
+Memory.OnReset
+
+
+
+PCBorad.Start
+PCBoard.Stop
+
+
+DMA.OnReset

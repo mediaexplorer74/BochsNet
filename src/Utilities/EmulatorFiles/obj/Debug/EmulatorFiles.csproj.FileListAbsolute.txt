@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Utilities\EmulatorFiles\bin\Debug\EmulatorFiles.dll
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Utilities\EmulatorFiles\bin\Debug\EmulatorFiles.pdb
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Utilities\EmulatorFiles\obj\Debug\EmulatorFiles.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Utilities\EmulatorFiles\obj\Debug\EmulatorFiles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Utilities\EmulatorFiles\obj\Debug\EmulatorFiles.dll
+C:\Users\Admin\source\repos\BochsNet\Bochs.Net\trunk\Utilities\EmulatorFiles\obj\Debug\EmulatorFiles.pdb

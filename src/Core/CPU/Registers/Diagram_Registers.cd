@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CPU.Registers.CR_Register" Collapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Registers\CR_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.DR7_Register" Collapsed="true">
+    <Position X="13.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registers\DR7_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.CR0_Register" Collapsed="true">
+    <Position X="5.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAgAAAAAAACCAAABEAAAAAAggAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Registers\CR0_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.CR2_Register" Collapsed="true">
+    <Position X="5.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registers\CR2_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.CR3_Register" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registers\CR3_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.CR4_Register" Collapsed="true">
+    <Position X="5.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACAgAAAAAACIAAEAAAACAAAAEAAAAIAAAgQIAAAAIA=</HashCode>
+      <FileName>Registers\CR4_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.DR_Register" Collapsed="true">
+    <Position X="15" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Registers\DR_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.DR6_Register" Collapsed="true">
+    <Position X="16" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registers\DR6_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.EFER_Register" Collapsed="true">
+    <Position X="5.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQFAAAAAACAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Registers\EFER_Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register" Collapsed="true">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAABQAAAAEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Registers\Register.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register8" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAggAEAAAAA=</HashCode>
+      <FileName>Registers\Register8.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register16" Collapsed="true">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAICAAAIIAAAAAAAAAEAAIAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Registers\Register16.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register32" Collapsed="true">
+    <Position X="11.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAgAAAAAABAACAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Registers\Register32.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.Register64" Collapsed="true">
+    <Position X="18" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAADAAAAAAAAAgAAAAAQgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Registers\Register64.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.RFlagsRegister" Collapsed="true">
+    <Position X="18" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAACAAAAhABAAAApCnFAAEAAAAAAgAgAAAAAAgA=</HashCode>
+      <FileName>Registers\RFlagsRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.SegmentRegister" Collapsed="true">
+    <Position X="20" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EIAACAIYCAACNMAAAACMgCwBgACgAMEAAQBCRAiABAI=</HashCode>
+      <FileName>Registers\SegmentRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPU.Registers.GlobalSegmentRegister" Collapsed="true">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAASAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Registers\GlobalSegmentRegister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

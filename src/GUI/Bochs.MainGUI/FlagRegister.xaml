@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Bochs.MainGUI.FlagRegister"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="109" d:DesignWidth="374">
+    <Grid Height="104" Width="371" Background="#FFF0F0F0">
+        <TextBox Height="23" HorizontalAlignment="Left" TextAlignment="Center" Margin="8,0,0,41" Name="txtCF" VerticalAlignment="Bottom" Width="34" Background="#FFB6DFEB" Text="CF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Margin="48,0,0,41" Name="txtPF" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="34" Text="PF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="88,0,0,41" Name="txtAF" VerticalAlignment="Bottom" Width="34" Padding="0" Text="AF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="128,0,0,41" Name="txtZF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="ZF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="170,0,0,41" Name="txtSF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="SF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="210,0,0,41" Name="txtTF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="TF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="250,0,0,41" Name="txtIF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="IF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="290,0,0,41" Name="txtDF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="DF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" Margin="330,0,0,41" Name="txtOF" Padding="0" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="35" Text="OF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="8,0,0,12" Name="txtIOPL1" VerticalAlignment="Bottom" Width="34" Text="IOPL" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" Margin="48,0,0,12" Name="txtIOPL2" VerticalAlignment="Bottom" HorizontalAlignment="Left" Width="34" Text="IOPL" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="88,0,0,12" Name="txtNT" Padding="0" VerticalAlignment="Bottom" Width="34" Text="NT" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="128,0,0,12" Name="txtRF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="RF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="170,0,0,12" Name="txtVM" Padding="0" VerticalAlignment="Bottom" Width="34" Text="VM" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="210,0,0,12" Name="txtAC" Padding="0" VerticalAlignment="Bottom" Width="34" Text="AC" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="250,0,0,12" Name="txtVF" Padding="0" VerticalAlignment="Bottom" Width="34" Text="VF" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="290,0,0,12" Name="txtVP" Padding="0" VerticalAlignment="Bottom" Width="34" Text="VP" />
+        <TextBox Background="#FFB6DFEB" TextAlignment="Center"  Height="23" HorizontalAlignment="Left" Margin="330,0,0,12" Name="txtID" Padding="0" VerticalAlignment="Bottom" Width="35" Text="ID" />
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,8,0,0" Name="lblValue" VerticalAlignment="Top" FontSize="10" Foreground="#FF3399FF" />
+    </Grid>
+</UserControl>
